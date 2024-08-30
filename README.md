@@ -1,16 +1,30 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeepReader - Home</title>
+</head>
+<body>
+    <h1>Welcome to DeepReader</h1>
+    <p>Discover a revolutionary way of reading with Deep Reader, the most advanced EPUB reader designed to elevate your reading experience. Whether you're exploring complex academic texts, diving into foreign literature, or simply enjoying your favorite novel, Deep Reader is here to enhance every aspect of your reading journey. Powered by the cutting-edge capabilities of ChatGPT, Deep Reader offers tools that not only make reading more enjoyable but also more insightful and interactive.</p>
 
-<!--
-**deepreaderapp/deepreaderapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <h2>Why Choose Deep Reader?</h2>
+    <p>Deep Reader is not just another EPUB reader—it's a comprehensive tool that transforms how you engage with books. With Deep Reader, you can:</p>
+    <ul>
+        <li><strong>Translate Instantly with AI-Powered Tools:</strong> Have you ever struggled with understanding a text in a foreign language? With Deep Reader, that’s a thing of the past. Our app allows you to instantly translate any paragraph or sentence into your preferred language. Deep Reader supports all languages available through the ChatGPT API, ensuring that language barriers never come between you and your favorite books.</li>
+        <li><strong>Listen to Your Books with Text-to-Speech Integration:</strong> Whether you're on the move or simply prefer listening to reading, Deep Reader’s text-to-speech feature is your perfect companion. Enjoy your books in a whole new way by listening to natural, AI-generated voices. This feature is especially useful for multitasking or when you want to rest your eyes while still absorbing the content of your book.</li>
+        <li><strong>Annotate and Highlight Key Sections:</strong> Deep Reader empowers you to interact with your books in a meaningful way. Highlight important sections, underline key concepts, and add personal notes to any part of the text. Our advanced annotation features ensure that your insights are never lost, making it easier to review and study your material later.</li>
+        <li><strong>Visualize Text with AI-Generated Images:</strong> Take your reading experience to the next level with our unique visualization feature. Deep Reader allows you to generate AI-powered images based on the content of any paragraph. This feature is perfect for visual learners and anyone who wants to see their books come to life through vivid illustrations created by DALL-E.</li>
+        <li><strong>Customize Your Reading Environment:</strong> We know that every reader has different preferences. That’s why Deep Reader offers a fully customizable reading environment. Adjust font sizes, change fonts, modify colors, and tweak layouts to suit your reading style. Our intuitive interface ensures that you can navigate your book effortlessly, whether you’re reading for leisure or study.</li>
+        <li><strong>Get Help and Insights with ChatGPT Assistance:</strong> Stuck on a difficult paragraph or concept? Deep Reader integrates seamlessly with ChatGPT, providing you with instant assistance right when you need it. The chatbot feature allows you to ask questions and get explanations on any part of the text, ensuring that you fully understand and engage with the material.</li>
+        <li><strong>Effortless EPUB File Management:</strong> Deep Reader makes it simple to manage your EPUB files. Quickly select and open files from your device, and easily organize your library. Whether you have a few books or a vast collection, Deep Reader ensures that accessing your content is always quick and easy.</li>
+        <li><strong>Interactive Tutorials for Easy Setup:</strong> New to Deep Reader? No problem. Our app includes a comprehensive tutorial that guides you through the essential steps to set up and use Deep Reader effectively. From purchasing and entering your ChatGPT API key to exploring the reading screen features, our tutorial covers everything you need to get started.</li>
+    </ul>
+    <p><strong>Enhance Your Reading Experience Today!</strong></p>
+    <p>Deep Reader is not just an EPUB reader—it's your personal reading assistant, designed to make your reading experience as immersive, interactive, and insightful as possible. Whether you're looking to understand complex texts, explore foreign literature, or simply enjoy a good book in a new way, Deep Reader is the tool you need.</p>
+    <p>Download Deep Reader today and unlock the full potential of your reading experience with the power of ChatGPT. Join the revolution in reading—translate, annotate, listen, and visualize your books like never before!</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <p>To learn more about how we handle your data, please read our <a href="deepreaderprivacypolicy.html">Privacy Policy</a>.</p>
+</body>
+</html>
